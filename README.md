@@ -535,4 +535,3 @@ URL: {{base_url}}/product/find-by-id/M001
 ---
 [Back to top](#mini-project-etoko)
 
->Generated at 2022-06-10 14:29:18 by [docgen](https://github.com/thedevsaddam/docgen)
